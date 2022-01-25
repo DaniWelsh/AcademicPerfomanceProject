@@ -21,6 +21,6 @@ namespace AcademicPerfomance
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
-                });
+                });        
     }
 }
